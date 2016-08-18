@@ -1,0 +1,17 @@
+{
+    "name": "kronaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Yvonne Sch\u00fcttler"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kronaone-bower.git"
+    },
+    "description": "Krona One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
